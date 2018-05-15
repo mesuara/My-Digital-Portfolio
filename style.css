@@ -165,7 +165,7 @@ body{
 }*/
  
  form{
- 	background-color:  #DAF7A6;
+ 	background-color:  #DC7633;
  }
 
 .modal-body{
@@ -173,10 +173,10 @@ body{
 	background-color: #DC7633   ;
 }
 .modal-header{
-	background-color: #ABEBC6;
+	background-color:  #F5CBA7;
 }
 .modal-footer{
-	background-color: #ABEBC6;
+	background-color:  #F5CBA7;
 }
 h1{
 	text-align: center;
